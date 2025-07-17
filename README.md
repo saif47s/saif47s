@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **xiaomidanger@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** NetSec
 - 🌱 **I’m currently learning:** Backend development 
 - 👯 **I’m looking to collaborate on:** NetSec.
-   It is a networking scanning app. Use to find devices and handle it according to your need.
+           It is a networking scanning app. Use to find devices and handle it according to your need.
 
 - 🤔 **I’m looking for help with:** Network Scanning App
 - 💬 **Ask me about:** Collaboration, Tech Support, Projects
