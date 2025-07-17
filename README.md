@@ -1,11 +1,12 @@
 # 💫 Hi 👋, I'm M.Saif
-**A passionate Cloud Engineer || Expert and Certified in Prompting || Networking Engineer || UI/UX Designer || Python Developer || Cybersecurity Certified Expert || Certified in IT Support || SEO || Mobile Application Development || Advance Data Analysis || Database Administration , Design and Management || React Native**
+**A passionate Cloud Engineer || Expert and Certified in Prompting || Networking Engineer || UI/UX Designer || Python Developer || Cybersecurity Certified Expert || Certified in IT Support || SEO || Mobile Application Development || Advance Data Analysis || Database Administration , Design and Management || React Native.**
 
 Email Me 👉 ✉️ **xiaomidanger@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** NetSec
 - 🌱 **I’m currently learning:** Backend development 
-- 👯 **I’m looking to collaborate on:** NetSec . It is a networking scanning app. Use to find devices and handle it according to your need.
+- 👯 **I’m looking to collaborate on:** NetSec.
+   It is a networking scanning app. Use to find devices and handle it according to your need.
 
 - 🤔 **I’m looking for help with:** Network Scanning App
 - 💬 **Ask me about:** Collaboration, Tech Support, Projects
