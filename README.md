@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm M.Saif
 **A passionate Cloud Engineer || Expert and Certified in Prompting || Networking Engineer || UI/UX Designer || Python Developer || Cybersecurity Certified Expert || Certified in IT Support || SEO || Mobile Application Development || Advance Data Analysis || Database Administration , Design and Management || React Native**
 
-Email Me 👉 ✉️ **xiaomidanger@gmai.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **xiaomidanger@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** NetSec
 - 🌱 **I’m currently learning:** Backend development 
